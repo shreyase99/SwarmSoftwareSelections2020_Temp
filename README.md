@@ -23,7 +23,7 @@ There will be meetings held for doubts and help, on a per need basis, the exact 
 For any queries, doubts or help, please email at: spandankumarsahu@gmail.com or give a call to Shreyase(9167887737) or Spandan(7477858944).
 
 ## How to Run
-Clone this repository (either download it, or use this command on a terminal: `git clone https://github.com/Swarm-IITKgp/SwarmSoftwareSelections2020_Temp`)
+Clone this repository (either download it, or use this command on a terminal: `git clone https://github.com/shreyase99/SwarmSoftwareSelections2020_Temp`)
 
 Please install the dependencies in `requirements.txt` (you can use `pip install -r requirements.txt`).
 
